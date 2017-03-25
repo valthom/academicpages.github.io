@@ -11,22 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Preparatory class (MPSI/MP) in mathematics, physics and computer science, Lycée
+    Clemenceau, Nantes, 2010-2013
+* M.S.in applied mathematics, \'{E}cole des Mines, Paris, 2013-2016
+* M.S.in applied mathematics for machine learning and computer vision (Master
+    MVA), \'{E}cole Normale Sup\'{e}rieure, Cachan, 2015-2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring/Summer 2017: Research Assistant (full time)
+  * MILA, University of Montr\'{e}al
+  * Topic: Unsupervised and reinforcement learning
+  * Supervisor: Professor Y. Bengio
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Fall/Winter 2016: Research Assistant (full time)
+  * Machine leaning and optimization lab, \'{E}cole Polytechnique
+      F\'{e}d\'{e}rale de Lausanne
+  * Topic: Distributed optimization for machine learning
+  * Supervisor: Professor M. Jaggi
+
+* Summer 2016: Research Intern (full time)
+  * Team Thoth (previously Lear), Inria Grenoble
+  * Topic: Joint optical flow estimation and semantic segmentation
+  * Supervisor: Professor K. Alahari \& C. Schmid
+
+* Summer 2015: R\&D Intern (full time)
+  * Control and systems lab, General Electric Global Research Center, Munich
+  * Topic: Joint optical flow estimation and semantic segmentation
+  * Supervisor: Professor K. Alahari \& C. Schmid
+
 Skills
 ======
 * Skill 1
